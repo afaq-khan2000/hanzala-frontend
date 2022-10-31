@@ -1,0 +1,17 @@
+.mt-15 {
+  margin-top: 150px;
+}
+
+.bg-light-gray {
+  background-color: #ebf5f4;
+}
+
+.bg-gray {
+  background-color: #d9eee9;
+}
+
+.member-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+}
